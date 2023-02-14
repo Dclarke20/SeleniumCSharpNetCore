@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "72bbeed9-c1c9-4942-85a5-164b6162bec9": {
+      "ProjectGuid": "72bbeed9-c1c9-4942-85a5-164b6162bec9",
+      "DisplayName": "SeleniumCSharpNetCore",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
