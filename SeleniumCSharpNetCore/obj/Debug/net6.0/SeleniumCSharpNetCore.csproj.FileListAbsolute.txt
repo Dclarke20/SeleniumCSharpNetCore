@@ -307,3 +307,4 @@ C:\Users\dionclarke\Source\Repos\SeleniumCSharpNetCore\SeleniumCSharpNetCore\obj
 C:\Users\dionclarke\Source\Repos\SeleniumCSharpNetCore\SeleniumCSharpNetCore\obj\Debug\net6.0\SeleniumCSharpNetCore.pdb
 C:\Users\dionclarke\Source\Repos\SeleniumCSharpNetCore\SeleniumCSharpNetCore\obj\Debug\net6.0\SeleniumCSharpNetCore.genruntimeconfig.cache
 C:\Users\dionclarke\Source\Repos\SeleniumCSharpNetCore\SeleniumCSharpNetCore\obj\Debug\net6.0\ref\SeleniumCSharpNetCore.dll
+C:\Users\dionclarke\source\repos\SeleniumCSharpNetCore\SeleniumCSharpNetCore\bin\Debug\net6.0\WebDriver.Support.dll
