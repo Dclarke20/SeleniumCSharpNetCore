@@ -27,7 +27,7 @@ namespace SeleniumCSharpNetCore
             CustomControl.SelectByText(Driver.FindElement(By.Id("ContentPlaceHolder1_Add1-awed")), "Cauliflower");
             
             
-            CustomControl.ComboBox("ContentPlaceHolder1_AllMealsCombo-awed", "Almond");
+            CustomControl.ComboBox("ContentPlaceHolder1_AllMealsCombo-awed", "Almonds");
 
             Assert.Pass();
         }
